@@ -1,2 +1,2 @@
 # notebase
-Quick notes using firebase
+A simple online collaborative notepad using Firebase 
