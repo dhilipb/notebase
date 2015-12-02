@@ -1,0 +1,4 @@
+{
+    "directory": "bower_components",
+    "https-proxy":"http://webproxy.bfm.com:8080"
+}

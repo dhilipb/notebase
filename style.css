@@ -1,0 +1,17 @@
+body, html {
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background: #eee;
+}
+
+#htmlEditor {
+	position: absolute;
+	top: 20px; left: 20px; right: 20px; bottom: 20px;
+	padding: 20px;
+	background: white;
+}
+
+#htmlEditor * {
+	outline: 0;
+}
